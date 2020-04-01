@@ -1,4 +1,9 @@
 apple
 orange
 pear
+<<<<<<< HEAD
 dragon fruit
+=======
+mango 
+kiwi
+>>>>>>> 18050f8f2acba29398be3cc1fb7afd64ee95ae19
