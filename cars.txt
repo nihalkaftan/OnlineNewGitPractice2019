@@ -4,4 +4,5 @@ BMW X6
 Lexus NX200t
 Audi R8
 Tesla
+Kia Optima
 Mercedes S500
